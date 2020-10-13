@@ -10,3 +10,9 @@ p, ul {
 p, ul {
   line-height: 300%;
 }
+h1 {
+  text-transform: capitalize;
+}
+p {
+  text-transform: capitalize;
+}
