@@ -7,3 +7,6 @@ Now you're reading this project Patrick Osten made on 10/12/20
 * strong
 * powerful
 * ajascent
+ 
+
+ Have a good
